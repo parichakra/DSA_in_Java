@@ -1,11 +1,10 @@
-public class whileLoop{
-    public static void main ( String [] args){
-        int num = 1;
+public class whileLoop {
+    public static void main(String[] args) {
+        int i = 1;
 
-        while ( num <= 5){
-            System.out.println( "Count : "+ i);
-            i++:
-
+        while (i <= 5) {
+            System.out.println("Count : " + i);
+            i++;
         }
     }
 }
