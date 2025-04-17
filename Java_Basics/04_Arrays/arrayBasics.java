@@ -1,8 +1,8 @@
 public class arrayBasics{
     public static void main ( String [] args){
-        int[] numbers;
+        // int[] numbers;
 
-        numbers = new int[5];
+        // numbers = new int[5];
 
         int[] numbers1 = { 10,20,30,40,50};
 
@@ -11,8 +11,8 @@ public class arrayBasics{
         System.out.println(numbers1[2]);
 
 
-        for (int num : numbers) {
-                System.out.println(numbers1);
+        for (int num : numbers1) {
+                System.out.println(num);
             }
 
     }
