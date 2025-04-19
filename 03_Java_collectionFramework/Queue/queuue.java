@@ -23,7 +23,7 @@ public class queuue{
       System.out.println("Queue"+queue);
 
 
-   // double ended queue
+   
 
 
 
